@@ -4,15 +4,15 @@
 
 
 # I am currently a computer engineering student
-- I'm working on Java, Python projects.
-- I'm building Android apps via Flutter&Dart.
-- I'm working on postreSQL, mySQL, SQLite and Firebase.
+- I'm working on Web Development
+- I'm building Web apps using React, Redux, Node and MongoDB
 
     
 # 📧 Reach me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismet-enes-ince-851280214/)
 
 # 👨‍💻 Technologies:
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
