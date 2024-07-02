@@ -3,10 +3,9 @@
 # Hello, I'm Enes! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-# I am currently a computer engineering student
-- I'm working on Web Development
-- I'm building Web apps using React, Redux, Node and MongoDB
-
+# I am currently a new grad computer engineering student
+- I'm working on Front End Web Development
+- I'm building Web apps using React, HTML, CSS, JS, TS
     
 # 📧 Reach me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismet-enes-ince-851280214/)
