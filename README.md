@@ -12,7 +12,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismet-enes-ince-851280214/)
 
 # 👨‍💻 Technologies:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs,react,java,mongodb,postgres,git)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs)](https://skillicons.dev)
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
