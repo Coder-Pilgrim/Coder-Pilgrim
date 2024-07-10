@@ -13,7 +13,10 @@
 # 👨‍💻 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs)](https://skillicons.dev)
 
+<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-Pilgrim&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Pilgrim&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
