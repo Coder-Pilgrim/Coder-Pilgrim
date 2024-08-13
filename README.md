@@ -5,13 +5,13 @@
 
 # I am currently a new grad computer engineering student
 - I'm working on Front End Web Development
-- I'm building Web apps using React, HTML, CSS, JS, TS
+- I'm building Web apps using React, HTML, CSS, JS, TS, NextJS, TailwindCSS
     
 # 📧 Reach me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismet-enes-ince-851280214/)
 
 # 👨‍💻 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nextjs,tailwind,threejs,aws,jenkins,mongodb,redux,)](https://skillicons.dev)
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-Pilgrim&show_icons=true&theme=radical&count_private=true&show_icons=true&show_owner)](https://github.com/anuraghazra/github-readme-stats)
